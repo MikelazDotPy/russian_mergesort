@@ -7,6 +7,11 @@ from typing import Callable
 длина = len
 печатать = print
 модуль = abs
+логический = bool
+Правда = True
+Ложь = False
+целое = int
+последовательно_применить = map
 
 
 class список(list):
